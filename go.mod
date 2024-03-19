@@ -1,6 +1,6 @@
 module github.com/ryohma0510/bimap
 
-go 1.21.3
+go 1.18
 
 require github.com/samber/lo v1.39.0
 
